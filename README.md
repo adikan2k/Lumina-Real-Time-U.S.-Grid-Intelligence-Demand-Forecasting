@@ -185,9 +185,6 @@ Lumina-Forecasting/
 ## 🔗 Links
 
 - **Live Dashboard:** [Looker Studio Link] _(Add after publishing)_
-- **GitHub Repository:** [Link to repo]
-- **Portfolio Writeup:** [Link to your portfolio page]
-- **Technical Deep-Dive:** [LUMINA_PROJECT_DOCUMENT.md](LUMINA_PROJECT_DOCUMENT.md)
 
 ---
 

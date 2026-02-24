@@ -2,7 +2,7 @@
 
 **Scalable energy analytics platform processing 400K+ hourly demand records across 10 U.S. balancing authorities and 50 states, revealing that high-renewable states pay 30% less than the national average — disproving the "clean energy = expensive" myth.**
 
-- **Live Dashboard:** [Looker Studio Link] (https://lookerstudio.google.com/reporting/158c880a-d220-406e-9b55-867c0b547d2e)
+- **Live Dashboard:** (https://lookerstudio.google.com/reporting/158c880a-d220-406e-9b55-867c0b547d2e)
 
 ![Strategic Dashboard](Strategic%20Dashboard.png)
 

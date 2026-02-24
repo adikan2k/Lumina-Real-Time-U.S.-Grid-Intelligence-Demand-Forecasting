@@ -182,20 +182,6 @@ Lumina-Forecasting/
 
 ---
 
-## 💼 Resume Bullets
-
-**Version 1 (Technical):**
-- Engineered a scalable energy analytics platform ingesting **400K+ records** from EIA APIs into a **BigQuery star-schema warehouse** (4 dims, 4 facts, 8 views) with incremental high-watermark loading, surfacing **5.55% national forecast MAPE** and a **21% forecast failure** at Duke Energy Carolinas.
-
-- Designed a **4-page Looker Studio dashboard** with quadrant-based scatter analysis proving **high-renewable states (WA, ID, OR) pay 30% below national average** — disproving the industry assumption that renewables raise electricity costs.
-
-**Version 2 (Business-focused):**
-- Built an end-to-end energy analytics platform processing 400K+ hourly demand records across 10 U.S. balancing authorities, identifying a critical 21% forecast failure at Duke Energy Carolinas and tracking national renewable share growth to 30.6%.
-
-- Delivered data-driven evidence that renewable energy adoption does NOT raise electricity costs — states with 70%+ renewable share pay below-average prices, enabling strategic renewable procurement decisions.
-
----
-
 ## 🔗 Links
 
 - **Live Dashboard:** [Looker Studio Link] _(Add after publishing)_
@@ -207,11 +193,5 @@ Lumina-Forecasting/
 
 ## 👥 Contributors
 
-- **Aditya Kanbargi** — Data Engineering, BigQuery Modeling, Dashboard Design
-- **Sanjana Kadambe Muralidhar** — Data Analysis, SQL Views, Visualization
+- **Aditya Kanbargi**
 
----
-
-## 📝 License
-
-MIT License - free for portfolio and educational use.

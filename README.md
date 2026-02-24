@@ -2,6 +2,8 @@
 
 **Scalable energy analytics platform processing 400K+ hourly demand records across 10 U.S. balancing authorities and 50 states, revealing that high-renewable states pay 30% less than the national average — disproving the "clean energy = expensive" myth.**
 
+- **Live Dashboard:** [Looker Studio Link] (https://lookerstudio.google.com/reporting/158c880a-d220-406e-9b55-867c0b547d2e)
+
 ![Strategic Dashboard](Strategic%20Dashboard.png)
 
 ---
@@ -143,8 +145,6 @@ Connect to BigQuery → Select views → Build 4 pages
 
 **Incremental Loading:** After initial backfill, notebooks check BigQuery high-watermark and load only new records.
 
-Full setup guide: [LOOKER_STUDIO_GUIDE.md](LOOKER_STUDIO_GUIDE.md)
-
 ---
 
 ## 📁 Project Structure
@@ -180,13 +180,6 @@ Lumina-Forecasting/
 
 **All data sourced from the U.S. Energy Information Administration (EIA) Open Data API v2.**
 
----
-
-## 🔗 Links
-
-- **Live Dashboard:** [Looker Studio Link] (https://lookerstudio.google.com/reporting/158c880a-d220-406e-9b55-867c0b547d2e)
-
----
 
 ## 👥 Contributors
 

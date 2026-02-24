@@ -184,7 +184,7 @@ Lumina-Forecasting/
 
 ## 🔗 Links
 
-- **Live Dashboard:** [Looker Studio Link] _(Add after publishing)_
+- **Live Dashboard:** [Looker Studio Link] (https://lookerstudio.google.com/reporting/158c880a-d220-406e-9b55-867c0b547d2e)
 
 ---
 

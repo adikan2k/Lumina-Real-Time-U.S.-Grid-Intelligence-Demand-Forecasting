@@ -184,4 +184,5 @@ Lumina-Forecasting/
 ## 👥 Contributors
 
 - **Aditya Kanbargi**
+- **sanjana muralidhar**
 
